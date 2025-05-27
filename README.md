@@ -22,11 +22,10 @@ Welcome to my GitHub! I'm passionate about **cloud security, cybersecurity, and 
 - **Cloud Log Analysis** – Real-time SIEM dashboard and alerts with Wazuh + ELK
 - **2-Tier Web App on EKS** – Flask + MySQL app with CI/CD and persistent storage
 
-## 📈 GitHub Stats
-![Faizal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/faizal-rahman-saffiudeen/)  
 - [Email](mailto:your.email@example.com)
 
 ---
