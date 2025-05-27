@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm passionate about **cloud security, cybersecurity, and 
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/faizal-rahman-saffiudeen/)  
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:faizalrahman2000@gmail.com)
 
 ---
 
